@@ -1,9 +1,9 @@
 // src/App.js
-import React from 'react';
-import { Helmet } from 'react-helmet';
-import LandingPage from './unAuth/LandingPage';
-import './App.css';
-import './firebase';
+import React from "react";
+import { Helmet } from "react-helmet";
+import LandingPage from "./unAuth/LandingPage";
+import "./App.css";
+import "./firebase";
 
 function App() {
   return (
@@ -11,7 +11,7 @@ function App() {
       <Helmet>
         <meta
           name="description"
-          content="TubeStamp is a free online tool that allows you to easily create timestamp links for YouTube videos. Share specific moments from videos with your friends and audience."
+          content="Coffee is good a free online tool that allows you to easily create timestamp links for YouTube videos. Share specific moments from videos with your friends and audience."
         />
         <meta
           name="keywords"
