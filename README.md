@@ -1,10 +1,10 @@
 # How to Create an Easy App with No Coding Experience 🚀
 
-In this series, we’ll go over creating real software with AI — and I’ll teach it as if you have zero coding experience.  
+In this series, we’ll go over creating real software with AI — and I’ll teach it as if you have zero coding experience.
+
 > ❓ Did you download this code and run into errors? [Watch this troubleshooting video](https://youtu.be/ByRf8fsWE0Q)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
 
 [![Screenshot of Tubestamp](https://github.com/user-attachments/assets/f8d248ed-10ad-4aec-8689-088025710ba1)](https://tubestamp.com/)
 
@@ -12,22 +12,22 @@ In this series, we’ll go over creating real software with AI — and I’ll te
 
 ## 📝 Lessons
 
-All lessons are available on YouTube. Click any title to watch:
+All lessons are available on YouTube.
+
 > 👍 **Like & Subscribe:** It’s free! 🤠
 
-1. 🧱 **Tech Stack (10 min):** [Watch on YouTube](https://youtu.be/ZFtoJIQdmC4)  
-2. 🔧 **Set Up (31 min):** [Watch on YouTube](https://youtu.be/BjAJPm5sqz0)  
-3. 🎨 **Frontend (1.2 hours):** [Watch on YouTube](https://youtu.be/-WdKjaprzCE)  
-4. 🧠 **Backend (56 min):** [Watch on YouTube](https://youtu.be/9js9TtWxRlo)  
-5. 💰 **Monetization (19 min):** [Watch on YouTube](https://youtu.be/2As9QVGVWZ8)  
-6. 🚀 **Launch (26 min):** [Watch on YouTube](https://youtu.be/nf56yrnoPuo)  
-7. ❌ **Don’t Do This (20 min):** [Watch on Builder's Console Log](https://www.skool.com/ai-for-your-business/about)  
-8. 📚 **Full Guide (3.4 hours):** [Watch on YouTube](https://youtu.be/tvquJI-v8ys)  
+1. 🧱 **Tech Stack (10 min):** [Watch on YouTube](https://youtu.be/ZFtoJIQdmC4)
+2. 🔧 **Set Up (31 min):** [Watch on YouTube](https://youtu.be/BjAJPm5sqz0)
+3. 🎨 **Frontend (1.2 hours):** [Watch on YouTube](https://youtu.be/-WdKjaprzCE)
+4. 🧠 **Backend (56 min):** [Watch on YouTube](https://youtu.be/9js9TtWxRlo)
+5. 💰 **Monetization (19 min):** [Watch on YouTube](https://youtu.be/2As9QVGVWZ8)
+6. 🚀 **Launch (26 min):** [Watch on YouTube](https://youtu.be/nf56yrnoPuo)
+7. ❌ **Don’t Do This (20 min):** [Watch on Builder's Console Log](https://www.skool.com/ai-for-your-business/about)
+8. 📚 **Full Guide (3.4 hours):** [Watch on YouTube](https://youtu.be/tvquJI-v8ys)
 
 > ℹ️ **Tip:** To open multiple links, right-click each link and choose “Open link in new tab.”
 
 ---
-
 
 ## 🛠️ Tech Stack
 
@@ -83,12 +83,12 @@ Make sure to never commit your `.env`—it’s included in `.gitignore` by defau
 
 # 📚 Google Doc Resources
 
-| Resource                               | Description                           | Link                                                                                                                                           |
-|----------------------------------------|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| Onboarding Guide for New Developers    | React, GitHub & Firebase              | <a href="https://docs.google.com/document/d/1fJAMgZw6yvDaSYOYcMbcqI6iv5Jc3xtI_3zflo5kZII/edit?usp=sharing" target="_blank" rel="noopener">Onboarding Guide</a> |
-| GitHub SSH Key Setup Guide             | How to configure SSH keys for GitHub  | <a href="https://docs.google.com/document/d/1MvYXc5xdXvDvwJCZB5tonfdni8FtdwxpviikydUzyds/edit?usp=sharing" target="_blank" rel="noopener">SSH Key Setup</a>         |
-| Firebase Python Functions Setup Guide  | Deploy Python functions on Firebase   | <a href="https://docs.google.com/document/d/1yn5cE5zuNBFpskh_KZU5BThA-fqcZSLPJefLUYTx9Wo/edit?usp=sharing" target="_blank" rel="noopener">Python Functions Guide</a> |
-| App Security Setup Guide               | Best practices for securing your app  | <a href="https://docs.google.com/document/d/1FLVqdPjGcBUejLJWjHdWERMIQBaszA3EilOngS60dCE/edit?usp=sharing" target="_blank" rel="noopener">App Security Guide</a>   |
+| Resource                              | Description                          | Link                                                                                                                                                                 |
+| ------------------------------------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Onboarding Guide for New Developers   | React, GitHub & Firebase             | <a href="https://docs.google.com/document/d/1fJAMgZw6yvDaSYOYcMbcqI6iv5Jc3xtI_3zflo5kZII/edit?usp=sharing" target="_blank" rel="noopener">Onboarding Guide</a>       |
+| GitHub SSH Key Setup Guide            | How to configure SSH keys for GitHub | <a href="https://docs.google.com/document/d/1MvYXc5xdXvDvwJCZB5tonfdni8FtdwxpviikydUzyds/edit?usp=sharing" target="_blank" rel="noopener">SSH Key Setup</a>          |
+| Firebase Python Functions Setup Guide | Deploy Python functions on Firebase  | <a href="https://docs.google.com/document/d/1yn5cE5zuNBFpskh_KZU5BThA-fqcZSLPJefLUYTx9Wo/edit?usp=sharing" target="_blank" rel="noopener">Python Functions Guide</a> |
+| App Security Setup Guide              | Best practices for securing your app | <a href="https://docs.google.com/document/d/1FLVqdPjGcBUejLJWjHdWERMIQBaszA3EilOngS60dCE/edit?usp=sharing" target="_blank" rel="noopener">App Security Guide</a>     |
 
 ---
 
@@ -96,16 +96,16 @@ Make sure to never commit your `.env`—it’s included in `.gitignore` by defau
 
 Stay up-to-date with new tutorials, tips, and behind-the-scenes:
 
-- **X (formerly Twitter):** [@corbin_braun](https://x.com/corbin_braun)  
-- **Instagram:** [@corbin_braunlich](https://instagram.com/corbin_braunlich)  
-- **YouTube:** [Corbin_Brown](https://www.youtube.com/channel/UCJFMlSxcvlZg5yZUYJT0Pug)  
+- **X (formerly Twitter):** [@corbin_braun](https://x.com/corbin_braun)
+- **Instagram:** [@corbin_braunlich](https://instagram.com/corbin_braunlich)
+- **YouTube:** [Corbin_Brown](https://www.youtube.com/channel/UCJFMlSxcvlZg5yZUYJT0Pug)
 
 ---
 
 ## ☕ About Builder’s Console Log
 
 [![What is Builder’s Console Log?](https://img.youtube.com/vi/rs1GMv_akeE/maxresdefault.jpg)](https://youtu.be/rs1GMv_akeE)  
-*Learn what the Builder’s Console Log community is all about.*
+_Learn what the Builder’s Console Log community is all about._
 
 ---
 
@@ -116,4 +116,3 @@ Join the **Builder’s Console Log** community on Skool:
 [![Join Builder’s Console Log](https://img.shields.io/badge/Join-Builders%20Console%20Log-blue)](https://www.skool.com/ai-for-your-business/about)
 
 ---
-
